@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QAIT\\aspnet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "c:\\Users\\QAIT\\Documents\\GitHub\\Razor\\RazorPages\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\QAIT\\aspnet\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "c:\\Users\\QAIT\\Documents\\GitHub\\Razor\\RazorPages\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\QAIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QAIT\\aspnet\\RazorPagesMovie\\obj\\",
+      "outputPath": "c:\\Users\\QAIT\\Documents\\GitHub\\Razor\\RazorPages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QAIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
